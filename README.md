@@ -1,2 +1,0 @@
-# notefan
-AmazForge watch faces
